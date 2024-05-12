@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My note</string>
+    <string name="addNote">Add Note</string>
+    <string name="enterTheTitle">Enter the title</string>
+    <string name="enterTheDescription">Enter the description</string>
+    <string name="notes">Notes</string>
+    <string name="editNote">Edit note</string>
+    <string name="title">Title</string>
+</resources>
